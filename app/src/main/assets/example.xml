@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<records>
+    <student>
+        <name>ABC</name>
+        <surname>ABC</surname>
+        <mobile>0123456789</mobile>
+        <section>A</section>
+    </student>
+
+    <student>
+        <name>XYZ</name>
+        <surname>XYZ</surname>
+        <mobile>0123456789</mobile>
+        <section>B</section>
+    </student>
+
+    <student>
+        <name>PQR</name>
+        <surname>PQR</surname>
+        <mobile>0123456789</mobile>
+        <section>C</section>
+    </student>
+</records>
